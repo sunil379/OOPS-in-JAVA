@@ -1,5 +1,4 @@
 # OOPs in Java
-## 3rd Sem Practical
 
 1) Write a programs to find sum of digits of four digit number.
 2) Create a student result database in Java. Calculate the grades of students. Decide criteria
