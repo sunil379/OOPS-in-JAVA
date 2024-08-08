@@ -1,5 +1,5 @@
 ## Object Oriented Programming in Java
-
+### List of Practical (SEM III)
 1) Write a programs to find sum of digits of four digit number.
 
 2) Create a student result database in Java. Calculate the grades of students. Decide criteria
